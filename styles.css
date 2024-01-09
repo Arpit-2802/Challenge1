@@ -27,19 +27,6 @@ body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: darkred;
 }
-.container {
-  height: 200px;
-  position: relative;
-  border: 3px solid green;
-}
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
 #btn{
   margin-left: 690px;
   background-color: #04AA6D; /* Green */
